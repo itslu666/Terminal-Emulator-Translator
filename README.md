@@ -4,3 +4,9 @@ A tool to translate configs between different terminal emulators.\
 - [ ] Kitty
 - [ ] Wezterm
 - [ ] Console 
+
+## Installation
+...
+
+## Usage
+...
