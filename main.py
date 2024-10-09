@@ -2,6 +2,7 @@ import os
 import argparse
 
 def main():
+    # arg parser
     parser = argparse.ArgumentParser()
     parser.add_argument("file_path", help="Path to file")
     args = parser.parse_args()
