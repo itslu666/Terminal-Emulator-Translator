@@ -1,3 +1,5 @@
+font, bg color, fg colors, color scheme, usw idk
+
 # wezterm
 config.font = wezterm.font ''
 
